@@ -1,1 +1,1 @@
-# nextjs-trpc-tailwind-template
+# NextJS tRPC Tailwind Template
